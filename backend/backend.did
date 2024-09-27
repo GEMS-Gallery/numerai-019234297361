@@ -1,0 +1,3 @@
+service : {
+  getNumerologyReading: (text, text) -> (text) query;
+}
